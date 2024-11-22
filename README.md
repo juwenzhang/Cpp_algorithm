@@ -16,3 +16,14 @@
   * 是因为面向对象的思维模式有助于后续代码复用性的提升，使用面向对象思维中的封装的特性
   * 使用泛型编程的好处，使用泛型编程，我们后续的的操作更加的自由，我们的数据结构可以实现存储的值更加丰富
   * 同时也可以提高了我们代码的复用率     
+
+* 如果想要观看我的程序运行，你可以做的操作有：
+  * ```
+    first step: fork from my repositoty
+    `git clone https://github.com/juwenzhang/Cpp_algorithm.git`
+
+    进行修改后，可以提交 PR 
+    `git add <your modified file>` or `git add .`  直接将修改的全部文件进行提交
+    `git commit -m "commitlint: desc"`  这里进行提交的时候一定要遵从 commitlint 规范
+    `git push -u <your-remote-repositoty-name> <your-local-branch>`
+    ```  
