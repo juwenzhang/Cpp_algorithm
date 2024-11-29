@@ -9,6 +9,15 @@ void test() {
   cout << my_Stack.get_top_ele() << endl;
 
   cout << my_Stack.get_size() << endl;
+
+  my_Stack.push(12);
+  my_Stack.push(13);
+  my_Stack.push(14);
+  my_Stack.push(15);
+
+  cout << my_Stack.get_top_ele() << endl;
+
+  cout << my_Stack.get_size() << endl;  
 }
 
 int main() {
